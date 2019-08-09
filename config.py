@@ -13,8 +13,8 @@ train_landmarks_path = '/home/lnan95/data/WFLW_images/WFLW_annotations/list_98pt
 test_landmarks_path = '/home/lnan95/data/WFLW_images/WFLW_annotations/list_98pt_rect_attr_train_test/list_98pt_rect_attr_test.txt'
 img_path= '/home/lnan95/data/WFLW_images/WFLW_images'
 
-train_path_for_save = '/home/lnan95/PycharmProjects/face_landmark_augmentation/data/train_img'
-test_path_for_save = '/home/lnan95/PycharmProjects/face_landmark_augmentation/data/test_img'
-landmark_path_for_save = '/home/lnan95/PycharmProjects/face_landmark_augmentation/data/landmark.txt'
+train_path_for_save = 'data/train_img'
+test_path_for_save = 'data/test_img'
+landmark_path_for_save = 'data/landmark.txt'
 NUM_LANDMARKS = 98
 THRED = 56
