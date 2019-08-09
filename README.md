@@ -2,8 +2,7 @@
 
 - augumentation tool for landmarks
 
-<div align="center"> ![avatar](scr/image.jpg) </div>
-
+![avatar](scr/image.jpg)
 
 
 - Todo:
